@@ -34,6 +34,7 @@
   },
   "name":"LBAM2",
   "resources":[
+    {"id":{"name":"sourcecontroltest","path":"notes/sourcecontroltest/sourcecontroltest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
